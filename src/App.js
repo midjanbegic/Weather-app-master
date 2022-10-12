@@ -19,7 +19,7 @@ function App() {
 
   return (
     <div>
-      <img src="logo.png" width={100} height={100} align="left" />
+      <img src="logo.png" width={100} height={100} align="left" alt="logo" />
       <div className="app">
         <div className="search">
           <input
